@@ -15,7 +15,7 @@ This project contains interview coding challenges.
     + One solution per line.
     + Format:
       ```ps1
-      julien@ubuntu:~/0x08. N Queens$ ./0-nqueens.py 4
+      jien@ubuntu:~/0x08. N Queens$ ./0-nqueens.py 4
       [[0, 1], [1, 3], [2, 0], [3, 2]]
       [[0, 2], [1, 0], [2, 3], [3, 1]]
       julien@ubuntu:~/0x08. N Queens$ ./0-nqueens.py 6
